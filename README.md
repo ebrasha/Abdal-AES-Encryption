@@ -7,7 +7,7 @@
 
 Abdal AES Encryption is a security tool for encrypting messages developed by the Abdal team. This tool uses AES encryption and has high power. AES stands for Advanced Encryption Standard, which was developed in 2001 by the US National Institute of Technology and Standards. The advanced encryption standard is accepted by the US government and is now used worldwide. This encryption algorithm replaces the Data Encryption Standard (DES) published in 1977.
 
-
+![alt text](Abdal AES Encryption.jpg "Title Text")
 
 **Requires**
 > Visual Studio 2019 - Telerik WinForm - Chilkat - .NetFramework 4.*
