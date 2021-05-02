@@ -13,14 +13,7 @@ Abdal AES Encryption is a security tool for encrypting messages developed by the
 > Visual Studio 2019 - Telerik WinForm - Chilkat - .NetFramework 4.*
 >
 
-
  
-
-## ScreenShot
-<h1 align="center">
-    <img src="https://gitlab.com/abdal-security-group/abdal-aes-encryption/-/blob/master/Abdal%20AES%20Encryption.jpg?raw=true"/>
-</h1>
-
 
 
 Features
